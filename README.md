@@ -4,7 +4,7 @@ Game made as a group-assignment in a Javascript-course
 
 Made with Typescript, p5-js and p5-play
 
-Made by: Me, [Mia](https://github.com/miaherman), [Mikaela](https://github.com/MikaelaAnd), [Oliver](https://github.com/Browbeans),
+Made by: [Timothy](https://github.com/TimothyGramnaes), [Mia](https://github.com/miaherman), [Mikaela](https://github.com/MikaelaAnd), [Oliver](https://github.com/Browbeans),
 [Felicia](https://github.com/feliciavonbraun) and [Amanda](https://github.com/AmandaStahlberg)
 
 When starting the project type "npm i" in terminal to install the modules necessarry.
